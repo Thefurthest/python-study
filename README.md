@@ -1,2 +1,2 @@
 # python-study
-For the love
+ 《python编程快速上手》代码学习记录
